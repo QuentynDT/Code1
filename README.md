@@ -11,6 +11,18 @@ To edit the contents of the python program, we use the nano command. The indenta
     nano fixme1.py
     python3 fixme1.py
 
-Flag for level 1:
+Flag for the challenge:
     
     picoCTF{1nd3nt1ty_cr1515_6a476c8f}
+
+### convertme.py
+
+Using the python3 command, we can run the program. It asks us what is the binary equivalent of the decimal number 60. Using a convesion table, we see that 60 in decimal is 111100 in binary. Thus, we enter 111100 to get the flag
+
+    python3 convertme.py
+
+Flag for the challenge:
+    
+    picoCTF{4ll_y0ur_b4535_9c3b7d4d}
+
+
